@@ -1,0 +1,33 @@
+
+
+body{
+
+background-image: url(img/image.jpg);
+
+background-size: cover;
+overflow:0.8;
+}
+
+
+.col-8{
+
+margin-left: 100px;
+
+}
+
+.col-4{
+
+float: right;
+}
+
+.nav{
+
+margin-right: -100px;
+
+}
+.form{
+
+margin-left: 200px ;
+
+
+}
